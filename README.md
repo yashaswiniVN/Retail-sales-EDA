@@ -290,7 +290,6 @@ This project can be extended by adding:
 - 📦 Inventory prediction
 
 ---
-
 ## ⭐ Conclusion
 
 Exploratory Data Analysis is an important step in any data science project.
